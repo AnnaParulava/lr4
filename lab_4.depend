@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1634679312 source:c:\users\anna\desktop\stc\projects\lab_4\main.cpp
+	"include\computer.h"
+	"include\desktopcomputer.h"
+	"include\laptop.h"
+
+1634723443 c:\users\anna\desktop\stc\projects\lab_4\include\computer.h
+	<iostream>
+	<string.h>
+
+1634723443 c:\users\anna\desktop\stc\projects\lab_4\include\desktopcomputer.h
+	<Computer.h>
+
+1634678985 c:\users\anna\desktop\stc\projects\lab_4\include\laptop.h
+	<Computer.h>
+
+1634723508 source:c:\users\anna\desktop\stc\projects\lab_4\src\laptop.cpp
+	"laptop.h"
+
+1634723509 source:c:\users\anna\desktop\stc\projects\lab_4\src\desktopcomputer.cpp
+	"desktopcomputer.h"
+
+1634723322 source:c:\users\anna\desktop\stc\projects\lab_4\src\computer.cpp
+	"computer.h"
+
